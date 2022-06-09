@@ -5,7 +5,7 @@
 
 <p>
 <?php
-$op=$_P['elemento'];
+$op=$_POST['elemento'];
 
 echo ("valor elegido: $op ! <br><br>");
 
